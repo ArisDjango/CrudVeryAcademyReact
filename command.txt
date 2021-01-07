@@ -1,0 +1,9 @@
+npx create-react-app blogapi
+cd blog api
+npm start
+npm install react-router-dom
+npm install @material-ui/core
+pip install django-cors-headers
+
+info:
+Strict mode
